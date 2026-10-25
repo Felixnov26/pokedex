@@ -5,6 +5,6 @@
     "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
     "Referrer-Policy": "strict-origin-when-cross-origin",
     "Permissions-Policy": "geolocation=(), microphone=(), camera=()",
-    "Content-Security-Policy": "default-src 'self' https: data: 'unsafe-inline' 'unsafe-eval';"
+    "Content-Security-Policy": "default-src 'self' https: data:;"
   }
 }
